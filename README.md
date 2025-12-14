@@ -56,6 +56,9 @@ Realistic example bug reports following industry-standard formats.
 - **Repo:** https://github.com/Ayomide254/postman-API/blob/main/Postman%20Collections/group_c.json
 - **Repo:** https://github.com/Ayomide254/postman-API-testing/blob/main/Postman%20Collections/postman_api_testing.json
 
+- ### *Project 3: SQL**
+- [Bug Report Sample](ASSETS/IMAGES/ C:\Users\EXCELLENCE\Desktop\ASSETS\IMAGES)
+
 ### **Project 3: Mobile App Testing**
 - Performed UI/UX inspection.
 - Documented issues across device types.

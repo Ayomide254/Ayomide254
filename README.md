@@ -54,12 +54,19 @@ Realistic example bug reports following industry-standard formats.
 - Validated responses, headers, status codes.
 - Designed automated test collections.
 - **Repo:** https://github.com/Ayomide254/postman-API/blob/main/Postman%20Collections/group_c.json
+- **Repo:** https://github.com/Ayomide254/postman-API-testing/blob/main/Postman%20Collections/postman_api_testing.json
 
 ### **Project 3: Mobile App Testing**
 - Performed UI/UX inspection.
 - Documented issues across device types.
-- **Repo:** https://github.com/Ayomide254/postman-API-testing/blob/main/Postman%20Collections/postman_api_testing.json
+- **Repo:**
 
+
+- Other Selenium Repos
+-**Repo:** https://github.com/Ayomide254/SELENIUM_-CODES-/blob/master/src/humanBeing.java
+  **Repo:** https://github.com/Ayomide254/MODULE-4-java/tree/master/src/main/java/org/example
+  **Repo:** https://github.com/Ayomide254/TASKS-SELENIUM/tree/master/src/main/java/org/example
+   
 ---
 
 ## 🎯 About Me

@@ -68,8 +68,8 @@ I enjoy digging into systems, understanding how they work, and spotting issues e
 ---
 
 ## 📫 Contact Me
-- **Email:** your-email@example.com  
-- **LinkedIn:** *Add link*  
+- **Email:** Ayomideganiyu247@gmail.com
+- **LinkedIn:** * https://www.linkedin.com/in/ayomide-ganiu-7b24a4370/  
 
 ---
 

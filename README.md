@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am a software tester
-# 👋 Hi, I'm **(Your Nmae)**
+# 👋 Hi, I'm **(GANIYU AYOMIDE)**
 **Software Tester | QA Enthusiast | Bug Hunter**
 
 I’m passionate about ensuring software works flawlessly by breaking things in the smartest way possible. I test with intention, report with clarity, and collaborate with teams to help ship reliable, user-friendly products.
@@ -12,7 +12,7 @@ I’m passionate about ensuring software works flawlessly by breaking things in 
 - Writing clear, reproducible bug reports
 - Creating and executing test cases
 - Web & mobile application testing
-- Basic automation (Selenium / Postman / API testing if applicable)
+- Basic automation (Selenium / Postman / API testing if applicable / CYPRESS / SQL)
 - Collaborating with developers to resolve issues
 
 ---
@@ -21,13 +21,13 @@ I’m passionate about ensuring software works flawlessly by breaking things in 
 
 ### **🧪 Test Case Collections**
 A curated set of test cases I’ve written for different scenarios and products.  
-➡️ *Coming soon / Add links when available*
+➡️ *JIJI TESTCASE LINK /  https://docs.google.com/spreadsheets/d/1B6xMEZcrE-MbvAeZrkRW6FwLZQl80879J1eCxDJnQew/edit?gid=1334334218#gid=1334334218
 
 ---
 
 ### **🐞 Bug Reports Samples**
 Realistic example bug reports following industry-standard formats.  
-➡️ *Coming soon / Add links when available*
+➡️ *Bug report on jiji account creation page / https://docs.google.com/spreadsheets/d/1PL29q0QyBSjgF8Lhnx_EurCFgn2qRYg1EBEu4-P_g7E/edit?gid=1923870747#gid=1923870747
 
 ---
 
@@ -37,7 +37,7 @@ Realistic example bug reports following industry-standard formats.
 - Selenium  
 - Git & GitHub  
 - Browser DevTools  
-- TestRail (or any other tool they use)
+- TestRail
 
 ---
 
@@ -47,18 +47,18 @@ Realistic example bug reports following industry-standard formats.
 - Wrote structured test cases.
 - Performed regression & exploratory testing.
 - Logged defects with detailed reproduction steps and screenshots.
-- **Repo:** *Add link here*
+- **Repo:** https://github.com/Ayomide254/TASKS-SELENIUM/blob/master/src/main/java/org/example/FinalProject.java
 
 ### **Project 2: API Testing with Postman**
 - Tested various endpoints.
 - Validated responses, headers, status codes.
 - Designed automated test collections.
-- **Repo:** *Add link here*
+- **Repo:** https://github.com/Ayomide254/postman-API/blob/main/Postman%20Collections/group_c.json
 
 ### **Project 3: Mobile App Testing**
 - Performed UI/UX inspection.
 - Documented issues across device types.
-- **Repo:** *Add link here*
+- **Repo:** https://github.com/Ayomide254/postman-API-testing/blob/main/Postman%20Collections/postman_api_testing.json
 
 ---
 

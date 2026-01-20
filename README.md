@@ -62,7 +62,7 @@ Realistic example bug reports following industry-standard formats.
 ### **Project 3: Mobile App Testing**
 - Performed UI/UX inspection.
 - Documented issues across device types.
-- **Repo:**
+- **Repo:** https://docs.google.com/spreadsheets/d/17goLbequqBW--7jWw6QCOCO83ETCsVW6TAwkd5Vq2Jg/edit?usp=sharing
 
 
 - Other Selenium Repos
